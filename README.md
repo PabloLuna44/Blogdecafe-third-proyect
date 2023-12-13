@@ -1,2 +1,2 @@
-#Blog Cafe 
+# BlogCafe 
 Link:https://jpgl-blogdecafe.netlify.app
